@@ -9,8 +9,11 @@ Functionalities :
 Add note  
 
 View active notes
+
 Delete note
+
 View deleted notes in trash
+
 Permanently delete or restore a note
 
 
