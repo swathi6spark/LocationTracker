@@ -18,4 +18,7 @@ Permanently delete or restore a note
 
 
 
+
+
+
 Supports android versions : 15+
