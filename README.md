@@ -6,7 +6,8 @@ This productivity app lets a user to maintain a list of notes
 
 Functionalities :
 
-Add note
+Add note  
+
 View active notes
 Delete note
 View deleted notes in trash
